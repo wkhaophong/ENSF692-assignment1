@@ -1,3 +1,5 @@
+## Name : Warisa Khaophong
+* The greatest act of courage is to believe in the beauty of your dreams, even when the world whispers doubt.
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
